@@ -13,10 +13,7 @@ Note:
 The output should always be a string!
 
 Examples:
-fizz_buzz(3) ➞ "Fizz"
-
-fizz_buzz(5) ➞ "Buzz"
-
-fizz_buzz(15) ➞ "FizzBuzz"
-
-fizz_buzz(4) ➞ "4"
+3 ➞ "Fizz"
+5 ➞ "Buzz"
+15 ➞ "FizzBuzz"
+4 ➞ "4"

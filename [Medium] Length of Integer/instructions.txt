@@ -9,8 +9,7 @@ Notes:
 The use of the 'len' function is prohibited!
 
 Examples:
-number_length(10) ➞ 2
-
-number_length(5000) ➞ 4
-
-number_length(0) ➞ 1
+10 ➞ 2
+5000 ➞ 4
+0 ➞ 1
+-600 ➞ 3
